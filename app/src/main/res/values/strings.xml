@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="saveFile">存文件</string>
+    <string name="saveImg">存图片</string>
+    <string name="read">读取</string>
+    <string name="delete">删除</string>
+    <string name="modify_name">修改文件名</string>
+    <string name="regist_listener">第一步：注册监听</string>
+</resources>
